@@ -25,8 +25,12 @@ The orginal base.strings you have just downloaded
 "Hello" = "Hello";
 "My name is" = "My name is";
 ```
-What base.strings should look like after you translate it to your language
+What base.strings should look like **after** you translate it to your language
 ```
 "Hello" = "Hola";
 "My name is" = "Mi nombre es"; ```
 
+
+## Uploading
+
+Once you have changed everything in the file, you will then fill out this Google Form. You will be asked for your email, name, and for the file to be uploaded. I will **not** publish your email, at all. It is only used so I can contact you after you have submitted your translation so I can thank you and let you know when it will be implemented into CQ.
