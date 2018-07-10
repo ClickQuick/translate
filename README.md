@@ -11,4 +11,22 @@ What is community translating? That's a good question. Pretty much, all it means
 
 The site you are on right now is called GitHub. It is a website used by developers to host our code primarily. Basically its like iCloud for computer programs plus a lot of nifty features that Im not going to go into. This file thast you are reading is in whats called a repository, or repo. The repo's name is called "translate" and a repo is just a collection of files pretty much. 
 
-In this repo, you will see a file called 'base.strings'. 
+In this repo, you will see a file called `base.strings`. This file contains every single English word that can be found in CQ, followed by an equals sign, and the the English version again. 
+
+To contribute to the translation of CQ, download the `base.strings` file to your computer, and open it. You then can trnalate the English words on the left of the `=` sign, and paste your translation into the right of the `=` sign.
+
+Here is an example:
+
+#### Example
+
+The orginal base.strings you have just downloaded
+
+```
+"Hello" = "Hello";
+"My name is" = "My name is";
+```
+What base.strings should look like after you translate it to your language
+```
+"Hello" = "Hola";
+"My name is" = "Mi nombre es"; ```
+
