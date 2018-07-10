@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  Click Quick!
+
+  Created by Ian Thompson on 6/28/18.
+  Copyright © 2018 Nice Lion Technologies. All rights reserved.
+*/
+
+
+// ViewController
+"Version" = "Version";
+"Play" = "Play";
+"Best" = "Best";
+"Games Played" = "Games played";
+"Settings" = "Settings";
+"Leaderboard" = "Leaderboard";
+
+// CoundownViewController
+"Game begins in..." = "Game begins in...";
+
+// GameViewController
+"Red" = "Red";
+"Orange" = "Orange";
+"Yellow" = "Yellow";
+"Green" = "Green";
+"Blue" = "Blue";
+"Purple" = "Purple";
+"White" = "White";
+"Score" = "Score";
+
+// GameOverViewController
+"Game Over!" = "Game Over!";
+"You scored" = "You scored";
+"Your best" = "Your best";
+"Play Again!" = "Play Again!";
+"Home" = "Home";
+
+// SettingsViewController
+"Settings" = "Settings";
+"Sounds" = "Sounds";
+"Viabrate" = "Viabrate";
+"Dark Mode" = "Dark Mode";
+"Suggestions" = "Suggestions";
+"Rate on App Store" = "Rate on App Store";
+"Help translate" = "Help translate";
+"More" = "More";
+"Open Source Libraries" = "Open Source Libraries";
+"Developer Website" = "Developer Website";
+"More Apps" = "More Apps";
+"Share" = "Share";
+
+// Open Source Libraries ViewController
+"Open Source Libraries are programs/parts of programs developers create for other developers to use. (Note: Those marked with \"*\" are no longer used, but were in previous versions of Click Quick!)" = "Open Source Libraries are programs/parts of programs developers create for other developers to use. (Note: Those marked with \"*\" are no longer used, but were in previous versions of Click Quick!)";
